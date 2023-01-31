@@ -4,6 +4,6 @@
 //   console.error("引入失败");
 // }
 
-import useScroll from "./src/getDataType.js";
+import useScroll from "./src/useScroll.js";
 
 export { useScroll };
