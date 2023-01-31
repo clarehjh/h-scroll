@@ -1,0 +1,24 @@
+{
+  "name": "h-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarehjh/h-scroll.git"
+  },
+  "keywords": [],
+  "author": "clare-hjh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarehjh/h-scroll/issues"
+  },
+  "homepage": "https://github.com/clarehjh/h-scroll#readme",
+  "dependencies": {
+    "vue": "^3.2.36"
+  }
+}
