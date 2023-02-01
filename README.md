@@ -18,7 +18,7 @@ import { useScroll } from "hjh-scroll";
 const { isReachBottom, clientHeight, scrollTop, scrollHeight } = useScroll();
 ```
 
-# tab 标签点击滑动到指定位置
+# 元素点击滑动到指定位置
 
 ```html
 <div class="detail top-page" ref="contentRef">

@@ -1,7 +1,7 @@
 {
   "name": "hjh-scroll",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "a scroll utils",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/clarehjh/h-scroll.git"
   },
-  "keywords": [],
+  "keywords": [ "clientHeight", "scrollTop", "scrollHeight","utils"],
   "author": "clare-hjh",
   "license": "ISC",
   "bugs": {
