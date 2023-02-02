@@ -10,7 +10,6 @@ import throttle from "./throttle.js";
 export default function useScroll(elRef) {
 
   let el = window;
-  console.log(el);
   const isReachBottom = ref(false);
 
   const clientHeight = ref(0);
